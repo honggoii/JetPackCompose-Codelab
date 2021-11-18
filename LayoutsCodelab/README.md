@@ -10,3 +10,16 @@ https://developer.android.com/codelabs/jetpack-compose-layouts
 - modifier의 argument는 순서의 영향을 받는다. (ex. padding을 주고 clickable을 주면, padding을 적용한 나머지 영역이 클릭 가능하고, clickable을 주고 padding을 주면 전체 영역을 클릭 할 수 있다.)
 
 
+## 원격에 있는 Image 파일을 가져오는 Library
+- Coil
+- Glide
+
+
+
+
+
+
+
+
+
+
