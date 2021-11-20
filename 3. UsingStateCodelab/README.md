@@ -1,7 +1,8 @@
 # Using state in Jetpack Compose
 https://developer.android.com/codelabs/jetpack-compose-state
 
-![Hnet-image](https://user-images.githubusercontent.com/46019755/142735200-a0ab3463-928e-4246-8882-01285185359c.gif)
+<img width="40%" src="https://user-images.githubusercontent.com/46019755/142735200-a0ab3463-928e-4246-8882-01285185359c.gif"/>
+
 
 ## state
 - 애플리케이션에서 변경될 수 있는 값
