@@ -2,8 +2,13 @@
 https://developer.android.com/codelabs/jetpack-compose-testing
 
 
-## 
+## Test Rul Pattern
+- Finding UI elements, checking their properties and performing actions
+        
+        composeTestRule{.finder}{.assertion}{.action}
 
+## Testing-cheatsheet
+https://developer.android.com/jetpack/compose/testing-cheatsheet
 
 
 ## License
