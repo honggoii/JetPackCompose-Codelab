@@ -2,6 +2,16 @@
 https://developer.android.com/codelabs/jetpack-compose-navigation
 
 
+## NavController
+- Navigation in Compose의 중심 component
+- 가장 먼저 생성
+- back stack entries 추적
+- 앞으로 이동
+- back stack 조작
+- screen states 사이를 navigating
+- Compose에서는 `NavHostController` 라고 한다.
+
+
 ## License
 
 ```
